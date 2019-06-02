@@ -61,7 +61,7 @@
 #### 3-1. 과제 수행 전 낙관 정도 비교 ####
 
 
-<img src="http://localhost:8888/files/Dropbox/Optimism%20Bias/before%20task.png">
+<img src="before task.png">
 
 과제 수행 전 두 그룹의 낙관 편향 정도에는 유의미한 차이가 __없습니다__ (p >.08) 
 
@@ -69,7 +69,7 @@
 <br>
 
 #### 3-2. 수렴적 사고(Convergence Task) 과제를 한 그룹의 전 후 비교입니다. ####
-<img src="http://localhost:8888/files/Dropbox/Optimism%20Bias/con_tot.png">
+<img src="con_tot.png">
 
 
 과제 수행 전 후로 큰 차이가 __없습니다__ (t(10)=-1.77, p=.1) 
@@ -79,7 +79,7 @@
 
 
 #### 3-3. 발산적 사고(Divergence Task) 과제를 한 그룹의 전 후 비교입니다. ####
-<img src='http://localhost:8888/files/Dropbox/Optimism%20Bias/div_tot.png'>
+<img src='div_tot.png'>
 
 과제 수행 전 후에 낙관 점수가 __상승__ 한 것을 알 수 있습니다 (t(11)=-2.33, p=.039)
 
